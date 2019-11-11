@@ -95,6 +95,10 @@ THE SOFTWARE.
 
 @angular/material/grid-list
 
+@angular/material/slide-toggle
+
+@angular/material/toolbar
+
 @angular/platform-browser
 MIT
 
